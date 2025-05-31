@@ -1,5 +1,5 @@
 body {
-  background-color: #3ab8fc;
+  background-color: #008fc4;
   font-family: Arial, sans-serif;
 }
 
@@ -28,7 +28,7 @@ a {
 }
 
 a:hover {
-  color: #3ab8fc;
+  color: #008fc4;
 }
 
 a:active {
