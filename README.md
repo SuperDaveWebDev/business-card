@@ -2,4 +2,6 @@
 
 My personal business card, which started as a freeCodeCamp project.
 
-Please Note: Links do not work yet. Click at your own risk!
+## What's New
+
+The Twitter and GitHub links now lead to my Twitter and GitHub profiles respectively. The LinkedIn and Portfolio links do not work yet but will be working once I create a LinkedIn account and create a Portfolio website.
