@@ -30,7 +30,7 @@ a {
 }
 
 a:hover {
-  color: #008fc4;
+  color: #00aeff;
 }
 
 a:active {
@@ -38,5 +38,5 @@ a:active {
 }
 
 a:visted {
-  color: grey;
+  color: #00ff40;
 }
